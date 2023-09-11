@@ -1,1 +1,1 @@
-# 932021.Plisko.Vova.lab2
+Simle tasks to make website layouts
